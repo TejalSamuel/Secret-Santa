@@ -1,4 +1,4 @@
-Secret Santa Assignment System
+**Secret Santa Assignment System**
 
 Overview
 This project is a "Secret Santa Assignment System" that ensures employees are assigned a Secret Santa in a fair manner. 
